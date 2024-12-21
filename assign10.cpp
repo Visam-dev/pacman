@@ -1,6 +1,4 @@
-// Author: Patricia Terol
-// Course: CSE 2050
-// Project: assign10
+// Author: Visamkhan
 
 #include <stdlib.h>
 #include <vector>
